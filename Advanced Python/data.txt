@@ -1,0 +1,2 @@
+
+ ini adalah data baru yang ditambakan melalui metode write.
