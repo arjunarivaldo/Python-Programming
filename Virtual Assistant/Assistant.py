@@ -12,7 +12,7 @@ class Assistant():
     def kirim_email():
         pengirim = input("Masukkan alamat email kamu: ")
         penerima = input("Masukkan alamat email tujuan: ")
-        sandi_app = 'twca vrde ject aagh'
+        sandi_app = '' #Masukan sandi app
         subjek = input("Masukkan subjek email: ")
         isi = input ('Masukkan isi email: ')
         
